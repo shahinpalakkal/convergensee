@@ -23,7 +23,7 @@ export default class presenceFinder extends Component {
       phone:'',
       errorField:false,
       loader:false,
-      googleKey:'AIzaSyB2-ORyKg2y4f5NzUEoKGuS4KehxKhe3co'
+      googleKey:''
     }
   }
   componentDidMount()
